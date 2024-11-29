@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysqli_connect("localhost", "root", "", "login_register_db");
+$conexion = mysqli_connect("localhost", "mycarlos05", "DgL6ftS4", "simulacrocamas");
 
 /*/
 if ($conexion){
@@ -9,5 +9,3 @@ if ($conexion){
         echo "no conectado";
 }
 */
-
-?>
